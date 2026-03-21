@@ -1,2 +1,3 @@
-# advanced-web-app-rb1a
-A web application for modern development workflows
+# Advanced Web App Rb1A
+
+A web application for modern development workflows.
